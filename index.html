@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.1/css/all.css">
+
+    <title>Jogo da Memória</title>
+</head>
+
+<body>
+
+    <h1>Jogo da Memória</h1>
+
+    <!-- Informações do jogo -->
+
+    <div class="game-info">
+        <p> Encontre os <span id="totalPairs">10</span> pares!</p>
+        <p> Pares encontrados: <span id="pairsCount">0</span></p>
+    </div>
+
+    <!-- Botão para novo jogo -->
+
+    <button id="newGameBtn" class="new-game-btn">Novo Jogo</button>
+
+    <!-- Tabuleiro -->
+
+    <div id="gameBoard">
+
+        <!-- Os 20 cards são gerados aqui pelo JavaScript -->
+
+    </div>
+
+    <!-- Mensagem de vitória -->
+     
+    <div id="victoryMessage" class="victory-message" style="display: none;">
+        <div class="victory-content">
+            <h2>Parabéns!</h2>
+            <p>Você encontrou todos os pares!</p>
+            <button id="playAgainBtn" class="play-again-btn">Jogar Novamente</button>
+        </div>
+    </div>
+
+    <script src="./scripts/script.js"></script>
+
+</body>
+
+</html>
