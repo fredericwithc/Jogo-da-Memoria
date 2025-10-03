@@ -44,7 +44,9 @@ Key Learnings
 - Simple shuffling algorithm with random swaps
 
 Contact
+
 Frederic Leyenberger
+
 Linkedin: https://www.linkedin.com/in/frederic-leyenberger/
 
 ------------------------------------------------------------------------------------------------------------------
@@ -94,5 +96,7 @@ Principais Aprendizados
 - Algoritmo simples de embaralhamento com trocas aleatórias
 
 Contato
+
 Frederic Leyenberger
+
 Linkedin: https://www.linkedin.com/in/frederic-leyenberger/
