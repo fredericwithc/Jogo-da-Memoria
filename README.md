@@ -70,8 +70,6 @@ Funcionalidades
 
 - Animações de virar cartas
 - Detecção de pares
-- Contador de movimentos
-- Funcionalidade de cronômetro
 - Condição de vitória com celebração
 - Opção de reiniciar o jogo
 - Transições e efeitos suaves
