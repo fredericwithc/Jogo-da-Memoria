@@ -1,5 +1,5 @@
 
-# Memory Card Game
+# Memory Card Game / EN
 
 Interactive memory game that challenges players to find matching pairs. This game was a great challenge in the stage I was within my studies, but helped me understand a lot and I liked the final result. I can still refine it and make it harder with more cards, but this is going to be for another moment.
 
@@ -51,7 +51,7 @@ Linkedin: https://www.linkedin.com/in/frederic-leyenberger/
 
 ------------------------------------------------------------------------------------------------------------------
 
-# Jogo da Memória
+# Jogo da Memória / PT-BR
 
 Jogo de Memória interativo que desafia os jogadores a encontrar pares correspondentes. Este jogo foi um grande desafio no momento que estava nos meus estudos, mas me ajudou a entender muito e gostei do resultado final. Ainda tem coisa para refinar e dá pra fazer mais difícil com mais cartas, mas isso fica pra um outro momento.
 
