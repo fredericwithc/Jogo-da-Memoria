@@ -18,8 +18,6 @@ Features
 
 - Card flip animations
 - Match detection
-- Move counter
-- Timer functionality
 - Win condition with celebration
 - Restart game option
 - Smooth transitions and effects
